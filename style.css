@@ -6,6 +6,9 @@
 body {
   margin: 0;
 }
+button {
+  cursor: pointer;
+}
 p {
   margin: 5px;
   cursor: pointer;
@@ -185,8 +188,6 @@ li:last-child {
 }
 .ml {
   margin-left: 20px;
-}
-.Slider {
 }
 .mb {
   margin-bottom: 20px;
